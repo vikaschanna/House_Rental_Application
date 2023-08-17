@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-11T15:47:48 IST" name="Default suite" finished-at="2023-08-11T15:47:48 IST" duration-ms="210">
+    <groups>
+    </groups>
+    <test started-at="2023-08-11T15:47:48 IST" name="Default test" finished-at="2023-08-11T15:47:48 IST" duration-ms="210">
+      <class name="com.HRA.Practice_Package.anotationsTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="BS" finished-at="2023-08-11T15:47:48 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="BT" finished-at="2023-08-11T15:47:48 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="BC" finished-at="2023-08-11T15:47:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="BM" finished-at="2023-08-11T15:47:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="BM2()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="BM2" finished-at="2023-08-11T15:47:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM2 -->
+        <test-method signature="Test1()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="Test1" finished-at="2023-08-11T15:47:48 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="AM" finished-at="2023-08-11T15:47:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="BM" finished-at="2023-08-11T15:47:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="BM2()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="BM2" finished-at="2023-08-11T15:47:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM2 -->
+        <test-method signature="Test2()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="Test2" finished-at="2023-08-11T15:47:48 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="AM" finished-at="2023-08-11T15:47:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="AC" finished-at="2023-08-11T15:47:48 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AC2()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="AC2" finished-at="2023-08-11T15:47:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC2 -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="AT" finished-at="2023-08-11T15:47:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:com.HRA.Practice_Package.anotationsTest@61df66b6]" started-at="2023-08-11T15:47:48 IST" name="AS" finished-at="2023-08-11T15:47:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- com.HRA.Practice_Package.anotationsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
