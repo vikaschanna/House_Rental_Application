@@ -82,7 +82,7 @@ public class Apartment_Registration_Test extends BaseClass {
 		
 		//to verify weather registered or not
 		arp.verify(driver);
-		
+		System.out.println();
 //		//close the browser
 //		driver.close();
 	}
